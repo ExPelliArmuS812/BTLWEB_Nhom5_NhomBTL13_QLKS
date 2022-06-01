@@ -4,9 +4,9 @@
 - Có các chức năng dành cho khách hàng: Đăng nhập, đăng ký thông tin, xem thông tin của khách sạn và phòng, xem và sửa đổi thông tin cá nhân, đặt phòng.
 - Có các chức năng dành cho quản lý khách sạn: Đăng nhập, xem và sửa thông tin khách sạn và phòng, quản lý thông tin đặt phòng (thống kê theo khách sạn, khách hàng và thời gian đặt, hủy/trả phòng) và khách hàng.
 2. Đóng góp các thành viên
-- Trần Nguyễn Đức Anh - Front-end (View)
-- Luyện Trần Anh - Back-end (Controller)
-- Tạ Đình Duy - Back-end (Model)
+- Trần Nguyễn Đức Anh - B19DCCN043 -  Front-end (View)
+- Luyện Trần Anh - B19DCCN019 - Back-end (Controller)
+- Tạ Đình Duy - B19DCCN142 - Back-end (Model)
 3. Mô tả cơ bản về chức năng và thiết kế, hình ảnh Demo
 3.1. Chức năng hệ thống và hình ảnh Demo
 - Đăng ký: Khách hàng đăng ký tài khoản và hệ thống lưu thông tin vào csdl
@@ -47,13 +47,17 @@
 + Quản lý khách hàng (xem thông tin khách hàng):
 ![image](https://user-images.githubusercontent.com/91584082/171329222-a73624d1-f5c1-4b21-946e-a2282a3f17c3.png)
 3.2. Thiết kế
+
 ![image](https://user-images.githubusercontent.com/91584082/171329702-e97ed848-12c5-4bad-8886-68c155a8b355.png)
 - Model:
+
 ![image](https://user-images.githubusercontent.com/91584082/171329411-5963da1e-0313-47af-bc2f-f198f9c1e7a3.png)
 - Controller:
+
 ![image](https://user-images.githubusercontent.com/91584082/171329439-7183d0f5-6bca-44fa-8dc5-6f998f3996fb.png)
 ![image](https://user-images.githubusercontent.com/91584082/171329463-988e9b31-62b0-4f36-b765-897e16b11ef9.png)
 - View:
+
 ![image](https://user-images.githubusercontent.com/91584082/171329554-104f2628-2bfa-4d34-ba9a-5eb8307614ae.png)
 ![image](https://user-images.githubusercontent.com/91584082/171329586-c2021a33-f85b-4143-99e0-c8e56309b0a3.png)
 
