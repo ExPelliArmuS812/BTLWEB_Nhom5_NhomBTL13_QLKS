@@ -9,5 +9,5 @@
 - Tạ Đình Duy - Back-end (Model)
 3. Mô tả cơ bản về chức năng, Demo
 - Đăng ký: Khách hàng đăng ký tài khoản và hệ thống lưu thông tin vào csdl
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/91584082/171327038-e431c913-8554-4d1f-afcb-40c6defbfb67.png)
 - 
